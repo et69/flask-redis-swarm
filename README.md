@@ -1,4 +1,4 @@
-# Flask and Redis with docker compose
+# Flask and Redis with docker swarm
 
 Simple Pyton flask app connected with Redis.
 
